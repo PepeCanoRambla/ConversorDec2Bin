@@ -1,3 +1,5 @@
 # ConversorDec2Bin
  
-`Este programa tiene la funcion de convertir un número real a uno en lenguaje binario`
+Este repositorio contiene funciones en python que permiten realizar conversiones entre números binarios, decimales y hexadecimales.
+
+Cada fichero tiene una función y un programa main que la prueba.
